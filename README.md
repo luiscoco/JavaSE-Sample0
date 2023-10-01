@@ -133,4 +133,25 @@ https://www.w3schools.com/java/default.asp
 
 19. Constructors in inheritance.
 
+    19.1. Calling a parent class constructor (super).
 
+    19.2. Calling a parent class constructor with parameters.
+
+    19.3. Calling a constructor inside the same class (this).
+
+20. Overwrite or Overload a method (@Override).
+
+21. Object type (Object) and reference type.
+
+22. abstract classes and polymorphism.
+
+    22.1. abstract classes.
+
+    22.2. abstract methods.
+
+    22.3. polymorphism.
+
+    22.4. final methods.
+
+23. Interfaces.  
+    
