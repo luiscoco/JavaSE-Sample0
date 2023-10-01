@@ -49,5 +49,18 @@ JavaSE-Sample0 Summary Professional Developer Certification Java 11 and 17
 
    6.4. Conditional operators.
 
-7. 
-8. 
+7. Objects equality (==, equals(), equalsIgnoreCase()).
+
+   7.1. Strings pool.
+
+   7.2. Wrapping objects equality.
+
+   7.3. StringBuilder equiality.
+
+   7.4. String object inmutability.
+
+8. If statement and ternary operator.
+
+   
+10. 
+11. 
