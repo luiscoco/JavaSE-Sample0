@@ -55,12 +55,18 @@ JavaSE-Sample0 Summary Professional Developer Certification Java 11 and 17
 
    7.2. Wrapping objects equality.
 
-   7.3. StringBuilder equiality.
+   7.3. StringBuilder equiality (mutable strings).
 
-   7.4. String object inmutability.
+   7.4. String object inmutability (inmutable strings).
 
-8. If statement and ternary operator.
+8. If statement and ternary operator (? and :).
 
+9. switch .
+
+   9.1. case, default.
+
+   9.2. break.
+
+   9.3. switch with string values.
    
 10. 
-11. 
