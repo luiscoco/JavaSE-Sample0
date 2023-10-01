@@ -1,6 +1,9 @@
 # JavaSE-Sample0
 JavaSE-Sample0 Summary Professional Developer Certification Java 11 and 17
 
+https://www.w3schools.com/java/default.asp
+
+
 1. Declaration and initialization of variables
    
    1.1. Variables types.
@@ -69,4 +72,61 @@ JavaSE-Sample0 Summary Professional Developer Certification Java 11 and 17
 
    9.3. switch with string values.
    
-10. 
+10. Loops (for and while).
+
+    10.1. for. 
+
+    10.2. enhanced for.
+
+    10.3. while.
+
+11. break and continue.
+
+    11.1. break.
+
+    11.2. continue.
+
+    11.3. labeled loops.
+
+12. Methods creation and methods overloading.
+
+    12.1. Methods definition and structure.
+
+    12.2. Calling a method.
+
+    12.3. Methods overloading.
+
+    12.4. Calling an overloading method.
+
+13. Passing parameters to methods.
+
+    13.1. Passing primitive parameters.
+
+    13.2. Passing objectd parameters.
+
+    13.3. Passing string parameters.
+
+14. Static members.
+
+    14.1. Static methods.
+
+    14.2. Static attributes.
+
+    14.3. Static blocks.
+
+15. Constructors.
+
+
+16. Access modifiers
+
+    16.1. public.
+
+    16.2. default.
+
+    16.3. private.
+
+    16.4. protected.
+
+17. En
+
+
