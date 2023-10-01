@@ -127,6 +127,10 @@ https://www.w3schools.com/java/default.asp
 
     16.4. protected.
 
-17. En
+17. Encapsulation.
+
+18. Inheritance.
+
+19. Constructors in inheritance.
 
 
