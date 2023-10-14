@@ -1,5 +1,5 @@
-# JavaSE-Sample0
-JavaSE-Sample0 Summary Professional Developer Certification Java 11 and 17
+# JavaSE-Summary Professional Developer Certification Java 11 and 17
+JavaSE-Summary Professional Developer Certification Java 11 and 17
 
 Also see: https://www.w3schools.com/java/default.asp
 
