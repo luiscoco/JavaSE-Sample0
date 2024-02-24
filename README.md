@@ -45,87 +45,87 @@ and: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-
 
 **6. Operators in Java**
 
-   6.1. Arithmetic operators
+  6.1. Arithmetic operators
 
-   6.2. Logic operators
+  6.2. Logic operators
 
-   6.3. Other operators (instanceof())
+  6.3. Other operators (instanceof())
 
-   6.4. Conditional operators
+  6.4. Conditional operators
 
 **7. Objects equality (==, equals(), equalsIgnoreCase())**
 
-   7.1. Strings pool
+  7.1. Strings pool
 
-   7.2. Wrapping objects equality
+  7.2. Wrapping objects equality
 
-   7.3. StringBuilder equiality (mutable strings)
+  7.3. StringBuilder equiality (mutable strings)
 
-   7.4. String object inmutability (inmutable strings)
+  7.4. String object inmutability (inmutable strings)
 
 **8. If statement and ternary operator (? and :)**
 
 **9. switch**
 
-   9.1. case, default
+  9.1. case, default
 
-   9.2. break
+  9.2. break
 
-   9.3. switch with string values
+  9.3. switch with string values
    
 **10. Loops (for and while)**
 
-    10.1. for
+  10.1. for
 
-    10.2. enhanced for
+  10.2. enhanced for
 
-    10.3. while
+  10.3. while
 
 **11. break and continue**
 
-    11.1. break
+  11.1. break
 
-    11.2. continue
+  11.2. continue
 
-    11.3. labeled loops
+  11.3. labeled loops
 
 **12. Methods creation and methods overloading**
 
-    12.1. Methods definition and structure
+  12.1. Methods definition and structure
 
-    12.2. Calling a method.
+  12.2. Calling a method.
 
-    12.3. Methods overloading.
+  12.3. Methods overloading.
 
-    12.4. Calling an overloading method.
+  12.4. Calling an overloading method.
 
 **13. Passing parameters to methods**
 
-    13.1. Passing primitive parameters
+  13.1. Passing primitive parameters
 
-    13.2. Passing objectd parameters
+  13.2. Passing objectd parameters
 
-    13.3. Passing string parameters
+  13.3. Passing string parameters
 
 **14. Static members**
 
-    14.1. Static methods
+  14.1. Static methods
 
-    14.2. Static attributes
+  14.2. Static attributes
     
-    14.3. Static blocks
+  14.3. Static blocks
 
 **15. Constructors**
 
 **16. Access modifiers**
 
-    16.1. public
+  16.1. public
 
-    16.2. default
+  16.2. default
 
-    16.3. private
+  16.3. private
 
-    16.4. protected
+  16.4. protected
 
 **17. Encapsulation**
 
@@ -133,11 +133,11 @@ and: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-
 
 **19. Constructors in inheritance**
 
-    19.1. Calling a parent class constructor (super)
+  19.1. Calling a parent class constructor (super)
 
-    19.2. Calling a parent class constructor with parameters
+  19.2. Calling a parent class constructor with parameters
 
-    19.3. Calling a constructor inside the same class (this)
+  19.3. Calling a constructor inside the same class (this)
 
 **20. Overwrite or Overload a method (@Override)**
 
@@ -145,13 +145,13 @@ and: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-
 
 **22. abstract classes and polymorphism**
 
-    22.1. abstract classes
+  22.1. abstract classes
 
-    22.2. abstract methods
+  22.2. abstract methods
 
-    22.3. polymorphism
+  22.3. polymorphism
 
-    22.4. final methods
+  22.4. final methods
 
 **23. Interfaces**
    
