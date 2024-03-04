@@ -1,9 +1,12 @@
 # JavaSE-Summary Professional Developer Certification Java 11 and 17
+
 JavaSE-Summary Professional Developer Certification Java 11 and 17
 
 Also see: https://www.w3schools.com/java/default.asp
 
 and: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
+![image](https://github.com/luiscoco/JavaSE-Summary-Professional-Developer-Certification-Java-11-and-17/assets/32194879/baa94ed4-93a1-41a7-9fe1-d031e5be7485)
 
 **1. Declaration and initialization of variables**
    
